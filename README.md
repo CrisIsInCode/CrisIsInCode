@@ -1,7 +1,7 @@
 # ¡Hola, soy Cristina! 👋
 
 ## Sobre Mí
-[En formación]
+**[En formación]**
 Técnico Superior en desarrollo web, con especialización en Ciberseguridad.
 
 ## Tecnologías y Habilidades 💻
@@ -12,7 +12,7 @@ Técnico Superior en desarrollo web, con especialización en Ciberseguridad.
 - **Sistemas Operativos:** Windows, Ubuntu
 - **Otras Herramientas:** VirtualBox
 
-  -> Enlaces en construcción 🛠️
+**[Enlaces en construcción 🛠️]**
 
 ## Proyectos Destacados 🚀
 
