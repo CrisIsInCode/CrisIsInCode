@@ -1,7 +1,7 @@
 # ¡Hola, soy Cristina! 👋
 
 ## Sobre Mí
-
+[En formación]
 Técnico Superior en desarrollo web, con especialización en Ciberseguridad.
 
 ## Tecnologías y Habilidades 💻
