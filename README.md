@@ -2,7 +2,7 @@
 
 ## Sobre Mí
 **[En formación]**
-Técnico Superior en desarrollo web, con especialización en Ciberseguridad.
+Técnico Superior en Desarrollo Web
 
 ## Tecnologías y Habilidades 💻
 
