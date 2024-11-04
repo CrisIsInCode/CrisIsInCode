@@ -30,8 +30,8 @@ Contribuciones a proyectos de código abierto.
 
 ## Contacto 📫
 
-- **Email:** [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
+- **Email:** [email@example.com](mail:email@example.com)
+- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/usuario/)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
