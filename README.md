@@ -6,10 +6,10 @@ Técnico Superior en Desarrollo Web
 
 ## Tecnologías y Habilidades 💻
 
-- **Lenguajes:** HTML, CSS, JavaScript, Java, SQL
+- **Lenguajes:** HTML, CSS, JavaScript, Java, SQL, PHP
 - **Frameworks y Librerías:** MySQL, Oracle
-- **Herramientas de Desarrollo:** NetBeans, Eclipse, Visual Paradigm, UMLet
-- **Sistemas Operativos:** Windows, Ubuntu
+- **Herramientas de Desarrollo:** NetBeans, Eclipse, Visual Paradigm, UMLet, Visual Studio Code, paquete XAMPP
+- **Sistemas Operativos:** Windows, Linux 
 - **Otras Herramientas:** VirtualBox
 
 **[Enlaces en construcción 🛠️]**
